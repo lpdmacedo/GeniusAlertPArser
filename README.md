@@ -1,5 +1,7 @@
 # GeniusAlertPArser
 
+JDK 1.7
+
 Generar el .JAR:
 mvn clean compile assembly:single
 
